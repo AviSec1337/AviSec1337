@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abishek Shrestha (@AviSec1337)
 
-**Blue Team Specialist** | **SIEM & SOAR Enthusiast** | **Bash & Python Scripter** | **Cybersecurity Blogger**
+**Defensive Security** | **SIEM & SOAR Engineer** | **Bash & Python Scripter**
 
 - 👀 **Interests:** Diving deep into cybersecurity, mastering SIEM and SOAR technologies, and automating tasks with Bash and Python.
 - 🌱 **Currently Learning:** Advanced threat detection methodologies and exploring the latest in security automation.
