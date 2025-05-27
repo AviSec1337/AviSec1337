@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abishek Shrestha (@AviSec1337)
+# 👋 Hi, I'm Abishek (AviSec) Shrestha
 
 **Defensive Security** | **SIEM & SOAR Engineer** | **Bash & Python Scripter**
 
